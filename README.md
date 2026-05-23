@@ -7,6 +7,6 @@ Simplify your shopping on Amazon and Groceries.
 
 ### Features
 - Integrates with Amazon to remind you when your returns are due.
-- Has a Shopping list so you can remember what yiu have to buy.
+- Has a Shopping list so you can remember what you have to buy.
 - Supports Adding multiple Stores
 - Sync your items with Friends and Family.
